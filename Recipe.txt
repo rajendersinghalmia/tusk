@@ -3,3 +3,4 @@ Kheer
 pasta
 Chicken fry
 pizza
+beans
